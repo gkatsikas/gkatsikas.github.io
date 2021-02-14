@@ -1,0 +1,12 @@
+
+ul {
+	list-style-type: none;
+}
+
+ul.a li span{
+	position:relative;
+	left:0.0em;
+	background-repeat: no-repeat;
+	background-position: 0px 50%;
+	padding-left: 0px;
+}
